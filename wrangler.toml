@@ -1,0 +1,7 @@
+name = "sureshort-bot"
+pages_build_output_dir = "public"
+compatibility_date = "2026-01-01"
+[[d1_databases]]
+binding = "DB"
+database_name = "sureshort"
+database_id = "PASTE_D1_ID_HERE"
